@@ -333,11 +333,11 @@
         },
         "jupyterlab": {
             "hashes": [
-                "sha256:1ca00a008951ccfb197a3fd7a90bae8b1567dfeeab65d8552b19be9f8e9d7b01",
-                "sha256:ca7b92491c32b66ad97be4a44d79aa702e4b6c59167e4189d5ce8cc742b15298"
+                "sha256:802a57815a6af0f42dfd19a1b6b5d526f0605f1422c2d395cf837141975321e2",
+                "sha256:b51fbd28b93f22d310207b8720ba3ee7e56da8bdf281fa2b92843680932f7262"
             ],
             "index": "pypi",
-            "version": "==2.1.5"
+            "version": "==2.2.10"
         },
         "jupyterlab-pygments": {
             "hashes": [
@@ -461,7 +461,7 @@
                 "sha256:6268c9ec9048cff7a45405c990c29ac9ca40b0bc3ec29263d218c5e01f2b4e86",
                 "sha256:8c07a3bb7640e371f8a609bdbb2366a1976c6a2589da8ef917f761a61e3ad8b1"
             ],
-            "index": "pypi",
+            "markers": "python_version >= '3.7'",
             "version": "==6.4.12"
         },
         "packaging": {
